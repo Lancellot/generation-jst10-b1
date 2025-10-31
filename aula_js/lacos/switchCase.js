@@ -1,7 +1,7 @@
 import readline from "readline-sync";
 
 console.log("# ## ### #### #########   Menu   ########## #### ### ## #");
-console.log("\n--Digite 1 para ver Indicação de um Livro--");
+console.log("--Digite 1 para ver Indicação de um Livro--");
 console.log("--Digite 2 para ler uma Frase Motivacional--");
 console.log("--Digite 3 para receber uma Indicação de música--");
 
