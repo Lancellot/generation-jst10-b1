@@ -1,0 +1,3 @@
+const numeros = [4,2,5,3,1,6];
+
+console.table(numeros);
