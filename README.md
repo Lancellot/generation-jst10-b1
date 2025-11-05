@@ -14,10 +14,9 @@
 
 O bootcamp foca no desenvolvimento Full Stack utilizando a stack JavaScript moderna, incluindo:
 
-- **Linguagem principal:** JavaScript (ES6+)
-- **Backend:** Node.js e o framework Express
+- **Linguagem principal:** JavaScript
+- **Backend:** Node.js
 - **Frontend:** HTML5, CSS3 e React
-- **Testes:** Jest (testes unitários)
 - **Controle de versão:** Git e GitHub
 
 ## 🎯 Objetivo
