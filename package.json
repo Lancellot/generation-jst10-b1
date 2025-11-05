@@ -1,6 +1,29 @@
 {
   "type": "module",
   "dependencies": {
-    "readline-sync": "^1.4.10"
-  }
+    "@types/node": "^24.10.0",
+    "readline-sync": "^1.4.10",
+    "typescript": "^5.9.3"
+  },
+  "name": "t10-js-m1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lancellot/generation-jst10-b1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lancellot/generation-jst10-b1/issues"
+  },
+  "homepage": "https://github.com/Lancellot/generation-jst10-b1#readme"
 }
