@@ -1,4 +1,4 @@
-import { Carro } from "./carro.ts";
+import { Carro } from "./Carro.ts";
 
 const carro = new Carro('Toyota', 'Corolla', 'Prata', 'Flex', 95000, 0);
 
