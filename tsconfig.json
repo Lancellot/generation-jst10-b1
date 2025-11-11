@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   // Visit https://aka.ms/tsconfig to read more about this file
   "compilerOptions": {
     // File Layout
@@ -42,3 +43,26 @@
     "skipLibCheck": true,
   }
 }
+=======
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+
+    "allowImportingTsExtensions": true,
+    "noEmit": true,
+
+    // Opcional: define entrada e saída
+    // "rootDir": "./src",
+    // "outDir": "./dist",
+
+    "sourceMap": true,
+    "declaration": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true
+  },
+  "include": ["**/*.ts"]
+}
+>>>>>>> 43c16a11c062ed8976cbea2d7793f0ddefa504fd
